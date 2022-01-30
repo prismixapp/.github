@@ -15,9 +15,9 @@
 
 See the [roadmap](https://github.com/orgs/gettwisty/projects/1/) for a list of proposed features (and known issues).
 
-## Acknowledgements
+## Sponsors
 
-Special thanks to these amazing projects which help power Twisty:
+Special thanks to these amazing folks which help power Twisty:
 
 [<img src="https://twistyapp.org/assets/powered-by-vercel.svg">](https://vercel.com/?utm_source=twisty&utm_campaign=oss)
 
